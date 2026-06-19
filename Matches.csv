@@ -1,0 +1,1001 @@
+MatchID,MatchDate,Opponent,Location
+1,2024-01-06,Boston Comets,Vegas Sports Complex
+2,2024-01-07,Boston Crushers,Houston Sports Complex
+3,2024-01-06,Chicago Eagles,Vegas University Gym
+4,2024-01-06,Chicago Eagles,Chicago University Gym
+5,2024-01-07,Brooklyn Storm,Denver Sports Complex
+6,2024-01-08,Nashville Titans,Chicago Pavilion
+7,2024-01-08,Houston Storm,Dallas Pavilion
+8,2024-01-09,Atlanta Phantoms,Boston Convention Center
+9,2024-01-09,Memphis Vortex,Vegas Memorial Hall
+10,2024-01-08,Phoenix Sharks,Nashville University Gym
+11,2024-01-09,Tampa Aces,Orlando University Gym
+12,2024-01-10,Portland Thunder,Denver Fieldhouse
+13,2024-01-10,Brooklyn Hawks,Tucson Fieldhouse
+14,2024-01-09,Denver Royals,Dallas Pavilion
+15,2024-01-11,Chicago Crushers,Houston University Gym
+16,2024-01-11,Portland Comets,Vegas Fieldhouse
+17,2024-01-10,Tampa Rockets,Reno University Gym
+18,2024-01-11,Portland Titans,Chicago University Gym
+19,2024-01-12,Denver Blaze,Atlanta Convention Center
+20,2024-01-11,Vegas Phantoms,Tucson Fieldhouse
+21,2024-01-13,Seattle Crushers,Miami Sports Complex
+22,2024-01-12,Miami Vortex,Orlando Arena
+23,2024-01-13,Austin Spikers,Chicago Convention Center
+24,2024-01-12,Dallas Blaze,Phoenix Memorial Hall
+25,2024-01-13,Austin Aces,Seattle Pavilion
+26,2024-01-13,Memphis Storm,Detroit Civic Center
+27,2024-01-13,Vegas Crushers,Boston Memorial Hall
+28,2024-01-14,Reno Comets,Miami Pavilion
+29,2024-01-15,Reno Comets,Vegas Convention Center
+30,2024-01-14,Denver Phantoms,Tampa University Gym
+31,2024-01-15,Phoenix Vipers,Reno Memorial Hall
+32,2024-01-15,Brooklyn Aces,Brooklyn Memorial Hall
+33,2024-01-16,Seattle Hawks,Memphis Sports Complex
+34,2024-01-16,Miami Rockets,Phoenix Pavilion
+35,2024-01-17,Austin Storm,Vegas University Gym
+36,2024-01-16,Nashville Comets,Dallas Fieldhouse
+37,2024-01-16,Detroit Sharks,Houston Arena
+38,2024-01-18,Austin Wolves,Atlanta Sports Complex
+39,2024-01-17,Chicago Titans,Miami University Gym
+40,2024-01-18,Tampa Surge,Phoenix Civic Center
+41,2024-01-19,Detroit Blaze,Memphis Memorial Hall
+42,2024-01-18,Tucson Thunder,Miami Civic Center
+43,2024-01-18,Miami Eagles,Austin Sports Complex
+44,2024-01-18,Seattle Hawks,Atlanta Sports Complex
+45,2024-01-20,Austin Spikers,Austin Convention Center
+46,2024-01-20,Atlanta Vipers,Tampa University Gym
+47,2024-01-19,Chicago Hawks,Houston Civic Center
+48,2024-01-21,Austin Hawks,Chicago University Gym
+49,2024-01-20,Miami Hawks,Tampa Fieldhouse
+50,2024-01-20,Houston Aces,Detroit Memorial Hall
+51,2024-01-21,Phoenix Comets,Reno Arena
+52,2024-01-22,Atlanta Phantoms,Detroit Pavilion
+53,2024-01-21,Houston Titans,Brooklyn Pavilion
+54,2024-01-22,Denver Sharks,Reno Pavilion
+55,2024-01-23,Nashville Eagles,Detroit Arena
+56,2024-01-22,Chicago Spikers,Nashville Civic Center
+57,2024-01-22,Phoenix Aces,Austin University Gym
+58,2024-01-24,Miami Titans,Tampa Memorial Hall
+59,2024-01-24,Boston Sharks,Vegas Civic Center
+60,2024-01-24,Nashville Titans,Miami Fieldhouse
+61,2024-01-25,Seattle Royals,Vegas Arena
+62,2024-01-25,Nashville Aces,Tampa Sports Complex
+63,2024-01-24,Seattle Eagles,Miami University Gym
+64,2024-01-25,Phoenix Sharks,Dallas University Gym
+65,2024-01-26,Miami Hawks,Nashville Arena
+66,2024-01-26,Portland Dynamos,Atlanta Convention Center
+67,2024-01-25,Vegas Surge,Tampa Pavilion
+68,2024-01-26,Houston Vipers,Austin Convention Center
+69,2024-01-27,Portland Wolves,Nashville Memorial Hall
+70,2024-01-26,Seattle Royals,Nashville Sports Complex
+71,2024-01-28,Miami Blaze,Denver University Gym
+72,2024-01-28,Chicago Dynamos,Austin Sports Complex
+73,2024-01-28,Nashville Phantoms,Reno Arena
+74,2024-01-28,Memphis Hawks,Chicago Arena
+75,2024-01-28,Atlanta Royals,Portland Convention Center
+76,2024-01-29,Denver Storm,Austin Civic Center
+77,2024-01-28,Nashville Aces,Tampa Memorial Hall
+78,2024-01-30,Detroit Crushers,Tucson Memorial Hall
+79,2024-01-30,Nashville Comets,Orlando Memorial Hall
+80,2024-01-30,Brooklyn Storm,Miami Civic Center
+81,2024-01-31,Seattle Storm,Memphis Sports Complex
+82,2024-01-31,Nashville Dynamos,Reno Arena
+83,2024-01-30,Boston Spikers,Houston Fieldhouse
+84,2024-01-31,Orlando Aces,Vegas Pavilion
+85,2024-02-01,Boston Surge,Memphis Fieldhouse
+86,2024-02-01,Memphis Eagles,Tampa Sports Complex
+87,2024-02-01,Miami Blaze,Memphis Pavilion
+88,2024-02-01,Houston Rockets,Vegas Pavilion
+89,2024-02-02,Chicago Spikers,Austin University Gym
+90,2024-02-02,Orlando Vortex,Memphis Civic Center
+91,2024-02-03,Nashville Wolves,Portland Fieldhouse
+92,2024-02-03,Seattle Vortex,Seattle Pavilion
+93,2024-02-03,Portland Royals,Phoenix Civic Center
+94,2024-02-03,Memphis Rockets,Vegas Memorial Hall
+95,2024-02-03,Denver Hawks,Portland Memorial Hall
+96,2024-02-03,Miami Vipers,Boston Sports Complex
+97,2024-02-03,Vegas Rockets,Seattle Memorial Hall
+98,2024-02-05,Reno Flyers,Chicago Fieldhouse
+99,2024-02-04,Atlanta Thunder,Brooklyn Arena
+100,2024-02-04,Miami Phantoms,Austin Convention Center
+101,2024-02-06,Boston Storm,Reno University Gym
+102,2024-02-06,Orlando Spikers,Boston Arena
+103,2024-02-06,Atlanta Spikers,Denver Fieldhouse
+104,2024-02-06,Denver Vortex,Memphis Fieldhouse
+105,2024-02-07,Seattle Hawks,Atlanta Convention Center
+106,2024-02-07,Denver Titans,Nashville Memorial Hall
+107,2024-02-07,Portland Surge,Chicago Sports Complex
+108,2024-02-07,Reno Titans,Tampa Memorial Hall
+109,2024-02-07,Reno Thunder,Vegas Sports Complex
+110,2024-02-07,Phoenix Spikers,Chicago Pavilion
+111,2024-02-08,Miami Crushers,Denver Arena
+112,2024-02-09,Orlando Storm,Boston Fieldhouse
+113,2024-02-09,Orlando Titans,Nashville Sports Complex
+114,2024-02-08,Orlando Comets,Austin Fieldhouse
+115,2024-02-09,Austin Sharks,Orlando Civic Center
+116,2024-02-10,Vegas Thunder,Reno Sports Complex
+117,2024-02-10,Orlando Phantoms,Vegas Memorial Hall
+118,2024-02-10,Seattle Sharks,Portland Sports Complex
+119,2024-02-11,Nashville Aces,Houston Memorial Hall
+120,2024-02-11,Tucson Phantoms,Houston Pavilion
+121,2024-02-12,Denver Sharks,Chicago Pavilion
+122,2024-02-12,Austin Thunder,Portland University Gym
+123,2024-02-11,Boston Vipers,Memphis Civic Center
+124,2024-02-11,Nashville Storm,Austin Sports Complex
+125,2024-02-13,Orlando Rockets,Atlanta Convention Center
+126,2024-02-12,Vegas Phantoms,Miami Convention Center
+127,2024-02-12,Tucson Crushers,Memphis Fieldhouse
+128,2024-02-14,Orlando Dynamos,Dallas Convention Center
+129,2024-02-14,Reno Sharks,Brooklyn Arena
+130,2024-02-14,Nashville Comets,Atlanta Arena
+131,2024-02-15,Houston Phantoms,Chicago Memorial Hall
+132,2024-02-14,Denver Dynamos,Chicago Memorial Hall
+133,2024-02-14,Orlando Vortex,Detroit Fieldhouse
+134,2024-02-14,Nashville Royals,Nashville University Gym
+135,2024-02-16,Seattle Vortex,Seattle Sports Complex
+136,2024-02-15,Houston Vipers,Denver Memorial Hall
+137,2024-02-16,Phoenix Blaze,Miami Sports Complex
+138,2024-02-17,Tampa Hawks,Orlando Fieldhouse
+139,2024-02-17,Dallas Flyers,Seattle Civic Center
+140,2024-02-16,Orlando Thunder,Tucson Memorial Hall
+141,2024-02-18,Nashville Surge,Austin Sports Complex
+142,2024-02-18,Chicago Storm,Dallas Memorial Hall
+143,2024-02-17,Reno Royals,Memphis Sports Complex
+144,2024-02-18,Dallas Eagles,Denver Civic Center
+145,2024-02-19,Atlanta Storm,Dallas Sports Complex
+146,2024-02-18,Chicago Hawks,Boston Civic Center
+147,2024-02-18,Houston Surge,Miami Memorial Hall
+148,2024-02-20,Houston Spikers,Brooklyn Arena
+149,2024-02-19,Chicago Dynamos,Miami Arena
+150,2024-02-19,Miami Eagles,Austin Fieldhouse
+151,2024-02-21,Atlanta Vortex,Memphis Convention Center
+152,2024-02-20,Seattle Titans,Orlando Memorial Hall
+153,2024-02-20,Tucson Vortex,Tucson University Gym
+154,2024-02-20,Dallas Crushers,Detroit Sports Complex
+155,2024-02-22,Miami Wolves,Dallas University Gym
+156,2024-02-22,Houston Vortex,Dallas Fieldhouse
+157,2024-02-21,Portland Eagles,Boston Pavilion
+158,2024-02-23,Houston Surge,Denver Convention Center
+159,2024-02-22,Atlanta Vipers,Reno Fieldhouse
+160,2024-02-23,Boston Spikers,Seattle University Gym
+161,2024-02-23,Nashville Hawks,Boston Arena
+162,2024-02-24,Seattle Hawks,Austin Memorial Hall
+163,2024-02-23,Denver Aces,Boston Memorial Hall
+164,2024-02-24,Brooklyn Blaze,Memphis Memorial Hall
+165,2024-02-25,Atlanta Crushers,Reno Pavilion
+166,2024-02-24,Miami Eagles,Seattle Sports Complex
+167,2024-02-25,Miami Blaze,Tampa Convention Center
+168,2024-02-25,Atlanta Comets,Detroit Convention Center
+169,2024-02-25,Nashville Eagles,Dallas Pavilion
+170,2024-02-26,Tucson Vortex,Miami Memorial Hall
+171,2024-02-27,Memphis Wolves,Reno Civic Center
+172,2024-02-26,Tampa Phantoms,Memphis Civic Center
+173,2024-02-26,Tampa Flyers,Boston Pavilion
+174,2024-02-27,Orlando Royals,Portland Civic Center
+175,2024-02-28,Tucson Vipers,Boston University Gym
+176,2024-02-27,Tampa Vortex,Orlando Sports Complex
+177,2024-02-28,Memphis Phantoms,Brooklyn University Gym
+178,2024-02-29,Brooklyn Flyers,Dallas University Gym
+179,2024-02-28,Atlanta Hawks,Houston Fieldhouse
+180,2024-02-29,Seattle Blaze,Portland Sports Complex
+181,2024-02-29,Phoenix Blaze,Detroit Civic Center
+182,2024-03-01,Brooklyn Surge,Houston Civic Center
+183,2024-03-01,Atlanta Crushers,Atlanta University Gym
+184,2024-03-01,Boston Sharks,Dallas Fieldhouse
+185,2024-03-02,Phoenix Eagles,Vegas Arena
+186,2024-03-02,Austin Aces,Chicago Sports Complex
+187,2024-03-01,Atlanta Titans,Reno Sports Complex
+188,2024-03-03,Boston Vortex,Detroit Memorial Hall
+189,2024-03-02,Miami Dynamos,Nashville Civic Center
+190,2024-03-02,Seattle Titans,Nashville Memorial Hall
+191,2024-03-03,Brooklyn Surge,Houston Convention Center
+192,2024-03-04,Phoenix Hawks,Vegas Civic Center
+193,2024-03-04,Tampa Storm,Tampa Pavilion
+194,2024-03-04,Nashville Eagles,Austin Convention Center
+195,2024-03-05,Seattle Crushers,Vegas Pavilion
+196,2024-03-05,Memphis Royals,Dallas University Gym
+197,2024-03-04,Denver Hawks,Portland Pavilion
+198,2024-03-06,Reno Storm,Orlando Fieldhouse
+199,2024-03-06,Chicago Sharks,Portland Civic Center
+200,2024-03-05,Boston Blaze,Portland Arena
+201,2024-03-07,Seattle Dynamos,Dallas University Gym
+202,2024-03-07,Denver Sharks,Brooklyn Civic Center
+203,2024-03-06,Brooklyn Blaze,Orlando Fieldhouse
+204,2024-03-06,Austin Wolves,Orlando Fieldhouse
+205,2024-03-07,Atlanta Phantoms,Nashville Arena
+206,2024-03-07,Boston Sharks,Austin Convention Center
+207,2024-03-07,Atlanta Thunder,Dallas Fieldhouse
+208,2024-03-08,Seattle Vipers,Tampa University Gym
+209,2024-03-09,Tucson Comets,Boston Civic Center
+210,2024-03-09,Orlando Hawks,Boston Arena
+211,2024-03-09,Detroit Spikers,Houston Sports Complex
+212,2024-03-09,Phoenix Royals,Atlanta Sports Complex
+213,2024-03-10,Tampa Wolves,Brooklyn Civic Center
+214,2024-03-09,Chicago Crushers,Dallas Arena
+215,2024-03-10,Memphis Eagles,Dallas Memorial Hall
+216,2024-03-11,Phoenix Eagles,Chicago Fieldhouse
+217,2024-03-10,Phoenix Comets,Phoenix Civic Center
+218,2024-03-11,Memphis Storm,Brooklyn Convention Center
+219,2024-03-12,Dallas Vortex,Atlanta Convention Center
+220,2024-03-11,Tucson Surge,Nashville Arena
+221,2024-03-12,Memphis Blaze,Detroit Pavilion
+222,2024-03-13,Portland Titans,Vegas Convention Center
+223,2024-03-12,Dallas Phantoms,Houston Civic Center
+224,2024-03-13,Brooklyn Crushers,Brooklyn Arena
+225,2024-03-14,Denver Blaze,Phoenix Civic Center
+226,2024-03-13,Dallas Sharks,Atlanta Fieldhouse
+227,2024-03-14,Vegas Sharks,Detroit Convention Center
+228,2024-03-15,Portland Hawks,Orlando Convention Center
+229,2024-03-14,Brooklyn Phantoms,Austin Fieldhouse
+230,2024-03-14,Memphis Wolves,Houston Arena
+231,2024-03-16,Reno Aces,Dallas Convention Center
+232,2024-03-16,Boston Aces,Chicago Memorial Hall
+233,2024-03-16,Chicago Flyers,Vegas University Gym
+234,2024-03-15,Austin Aces,Houston Sports Complex
+235,2024-03-16,Austin Thunder,Portland Sports Complex
+236,2024-03-17,Orlando Dynamos,Orlando University Gym
+237,2024-03-16,Miami Phantoms,Miami Memorial Hall
+238,2024-03-18,Seattle Wolves,Seattle University Gym
+239,2024-03-18,Vegas Surge,Phoenix Fieldhouse
+240,2024-03-18,Brooklyn Titans,Chicago Sports Complex
+241,2024-03-18,Tampa Surge,Orlando Civic Center
+242,2024-03-18,Memphis Comets,Vegas University Gym
+243,2024-03-18,Austin Vortex,Dallas Convention Center
+244,2024-03-19,Phoenix Vortex,Detroit University Gym
+245,2024-03-19,Dallas Phantoms,Nashville Memorial Hall
+246,2024-03-19,Houston Spikers,Portland University Gym
+247,2024-03-19,Memphis Thunder,Atlanta Memorial Hall
+248,2024-03-21,Portland Comets,Boston Arena
+249,2024-03-21,Denver Crushers,Dallas University Gym
+250,2024-03-21,Orlando Crushers,Portland Arena
+251,2024-03-21,Boston Hawks,Vegas Civic Center
+252,2024-03-22,Chicago Spikers,Nashville Pavilion
+253,2024-03-21,Nashville Blaze,Boston Pavilion
+254,2024-03-22,Austin Dynamos,Tampa Memorial Hall
+255,2024-03-23,Miami Titans,Memphis University Gym
+256,2024-03-23,Vegas Titans,Portland Memorial Hall
+257,2024-03-22,Denver Sharks,Chicago Pavilion
+258,2024-03-24,Memphis Hawks,Vegas Civic Center
+259,2024-03-24,Miami Vortex,Nashville Pavilion
+260,2024-03-24,Miami Vipers,Tampa Arena
+261,2024-03-25,Orlando Wolves,Austin Sports Complex
+262,2024-03-24,Boston Flyers,Austin Arena
+263,2024-03-25,Austin Sharks,Austin Sports Complex
+264,2024-03-24,Austin Spikers,Tampa Pavilion
+265,2024-03-25,Portland Surge,Brooklyn Pavilion
+266,2024-03-26,Dallas Hawks,Phoenix Pavilion
+267,2024-03-26,Nashville Vortex,Houston Convention Center
+268,2024-03-27,Vegas Storm,Tucson Pavilion
+269,2024-03-27,Boston Comets,Denver Arena
+270,2024-03-27,Miami Storm,Brooklyn Memorial Hall
+271,2024-03-27,Brooklyn Crushers,Memphis Fieldhouse
+272,2024-03-27,Memphis Royals,Miami Civic Center
+273,2024-03-28,Reno Vortex,Boston Fieldhouse
+274,2024-03-28,Brooklyn Wolves,Phoenix Pavilion
+275,2024-03-28,Atlanta Spikers,Brooklyn Arena
+276,2024-03-29,Atlanta Hawks,Vegas University Gym
+277,2024-03-29,Detroit Flyers,Vegas Civic Center
+278,2024-03-29,Portland Blaze,Brooklyn Sports Complex
+279,2024-03-30,Vegas Dynamos,Memphis Fieldhouse
+280,2024-03-29,Nashville Flyers,Denver Convention Center
+281,2024-03-30,Phoenix Eagles,Miami University Gym
+282,2024-03-30,Orlando Flyers,Vegas Pavilion
+283,2024-03-31,Chicago Aces,Portland Fieldhouse
+284,2024-03-30,Houston Dynamos,Chicago Arena
+285,2024-03-31,Nashville Hawks,Miami Pavilion
+286,2024-04-01,Memphis Phantoms,Dallas Memorial Hall
+287,2024-03-31,Houston Hawks,Nashville Arena
+288,2024-04-01,Phoenix Spikers,Boston Arena
+289,2024-04-01,Portland Rockets,Tucson University Gym
+290,2024-04-01,Orlando Sharks,Memphis Arena
+291,2024-04-02,Vegas Blaze,Detroit Convention Center
+292,2024-04-03,Vegas Hawks,Detroit University Gym
+293,2024-04-03,Houston Aces,Vegas Memorial Hall
+294,2024-04-02,Atlanta Vortex,Atlanta Civic Center
+295,2024-04-03,Orlando Royals,Memphis University Gym
+296,2024-04-03,Phoenix Vortex,Atlanta Convention Center
+297,2024-04-03,Phoenix Surge,Nashville Civic Center
+298,2024-04-04,Seattle Sharks,Vegas Memorial Hall
+299,2024-04-05,Chicago Royals,Phoenix Pavilion
+300,2024-04-05,Chicago Hawks,Chicago Fieldhouse
+301,2024-04-06,Detroit Vipers,Reno Pavilion
+302,2024-04-05,Chicago Rockets,Nashville Convention Center
+303,2024-04-05,Tampa Titans,Houston Civic Center
+304,2024-04-05,Seattle Royals,Miami Pavilion
+305,2024-04-06,Dallas Blaze,Tampa Memorial Hall
+306,2024-04-06,Reno Crushers,Tucson Civic Center
+307,2024-04-06,Portland Flyers,Brooklyn Civic Center
+308,2024-04-07,Denver Thunder,Memphis Arena
+309,2024-04-07,Nashville Spikers,Memphis Memorial Hall
+310,2024-04-07,Tucson Phantoms,Chicago Pavilion
+311,2024-04-08,Dallas Rockets,Reno Convention Center
+312,2024-04-08,Brooklyn Comets,Memphis Sports Complex
+313,2024-04-08,Portland Spikers,Atlanta Arena
+314,2024-04-09,Boston Royals,Denver Arena
+315,2024-04-09,Seattle Wolves,Denver Convention Center
+316,2024-04-09,Denver Sharks,Tucson Sports Complex
+317,2024-04-10,Tucson Vipers,Atlanta Civic Center
+318,2024-04-10,Denver Thunder,Dallas Pavilion
+319,2024-04-11,Houston Comets,Memphis Sports Complex
+320,2024-04-11,Orlando Thunder,Nashville Civic Center
+321,2024-04-11,Houston Eagles,Memphis Memorial Hall
+322,2024-04-12,Boston Comets,Tucson Fieldhouse
+323,2024-04-11,Portland Vipers,Chicago Fieldhouse
+324,2024-04-11,Chicago Vortex,Nashville Civic Center
+325,2024-04-13,Dallas Royals,Reno Arena
+326,2024-04-12,Detroit Vipers,Austin Sports Complex
+327,2024-04-13,Austin Dynamos,Denver Fieldhouse
+328,2024-04-14,Orlando Blaze,Atlanta Fieldhouse
+329,2024-04-13,Portland Sharks,Austin Fieldhouse
+330,2024-04-13,Nashville Aces,Portland Convention Center
+331,2024-04-15,Houston Dynamos,Dallas Sports Complex
+332,2024-04-14,Brooklyn Eagles,Dallas University Gym
+333,2024-04-15,Dallas Vortex,Portland Memorial Hall
+334,2024-04-14,Denver Wolves,Phoenix Arena
+335,2024-04-16,Brooklyn Titans,Miami Fieldhouse
+336,2024-04-16,Tampa Aces,Detroit Fieldhouse
+337,2024-04-16,Portland Blaze,Memphis Fieldhouse
+338,2024-04-17,Seattle Crushers,Austin Sports Complex
+339,2024-04-17,Atlanta Dynamos,Tampa Memorial Hall
+340,2024-04-17,Brooklyn Flyers,Nashville Fieldhouse
+341,2024-04-17,Seattle Thunder,Memphis Fieldhouse
+342,2024-04-18,Portland Wolves,Chicago Civic Center
+343,2024-04-17,Orlando Crushers,Boston Fieldhouse
+344,2024-04-18,Chicago Storm,Brooklyn Arena
+345,2024-04-19,Portland Rockets,Austin Sports Complex
+346,2024-04-18,Memphis Royals,Tucson Convention Center
+347,2024-04-18,Vegas Thunder,Tampa Sports Complex
+348,2024-04-20,Tucson Rockets,Houston Pavilion
+349,2024-04-19,Nashville Royals,Detroit Memorial Hall
+350,2024-04-19,Atlanta Royals,Memphis Convention Center
+351,2024-04-21,Vegas Comets,Tampa Civic Center
+352,2024-04-20,Phoenix Titans,Portland Convention Center
+353,2024-04-21,Orlando Dynamos,Boston Sports Complex
+354,2024-04-21,Vegas Sharks,Tampa Sports Complex
+355,2024-04-22,Reno Comets,Brooklyn Sports Complex
+356,2024-04-21,Miami Sharks,Houston Sports Complex
+357,2024-04-22,Tampa Vipers,Chicago Sports Complex
+358,2024-04-22,Phoenix Crushers,Brooklyn Memorial Hall
+359,2024-04-23,Reno Hawks,Seattle Fieldhouse
+360,2024-04-23,Reno Thunder,Vegas Convention Center
+361,2024-04-23,Nashville Thunder,Atlanta Convention Center
+362,2024-04-24,Austin Royals,Chicago Memorial Hall
+363,2024-04-23,Chicago Phantoms,Brooklyn Memorial Hall
+364,2024-04-24,Tampa Vipers,Phoenix Arena
+365,2024-04-25,Seattle Hawks,Dallas Arena
+366,2024-04-25,Memphis Eagles,Reno Pavilion
+367,2024-04-25,Tucson Eagles,Nashville Pavilion
+368,2024-04-25,Nashville Crushers,Tampa Sports Complex
+369,2024-04-25,Austin Phantoms,Denver Sports Complex
+370,2024-04-25,Boston Flyers,Austin Civic Center
+371,2024-04-26,Atlanta Sharks,Orlando Sports Complex
+372,2024-04-27,Houston Wolves,Atlanta Memorial Hall
+373,2024-04-27,Vegas Surge,Atlanta Civic Center
+374,2024-04-27,Seattle Phantoms,Phoenix Arena
+375,2024-04-28,Nashville Hawks,Boston University Gym
+376,2024-04-28,Brooklyn Blaze,Tucson Arena
+377,2024-04-27,Brooklyn Dynamos,Denver Arena
+378,2024-04-28,Orlando Aces,Orlando Convention Center
+379,2024-04-29,Houston Rockets,Houston Convention Center
+380,2024-04-29,Chicago Surge,Vegas Civic Center
+381,2024-04-29,Phoenix Vortex,Phoenix Fieldhouse
+382,2024-04-29,Seattle Wolves,Boston Convention Center
+383,2024-04-30,Atlanta Comets,Orlando University Gym
+384,2024-04-29,Nashville Eagles,Vegas Pavilion
+385,2024-05-01,Austin Wolves,Phoenix Fieldhouse
+386,2024-04-30,Boston Aces,Denver Pavilion
+387,2024-05-01,Austin Dynamos,Memphis Sports Complex
+388,2024-05-02,Miami Aces,Tucson Civic Center
+389,2024-05-01,Memphis Rockets,Reno Fieldhouse
+390,2024-05-02,Miami Wolves,Chicago Convention Center
+391,2024-05-03,Seattle Phantoms,Portland Convention Center
+392,2024-05-03,Reno Hawks,Reno Fieldhouse
+393,2024-05-02,Tucson Aces,Brooklyn University Gym
+394,2024-05-02,Austin Dynamos,Brooklyn Convention Center
+395,2024-05-03,Boston Vortex,Orlando Pavilion
+396,2024-05-04,Detroit Comets,Tampa Memorial Hall
+397,2024-05-03,Brooklyn Vortex,Chicago University Gym
+398,2024-05-04,Detroit Blaze,Boston Pavilion
+399,2024-05-05,Reno Rockets,Portland Sports Complex
+400,2024-05-04,Miami Aces,Brooklyn Convention Center
+401,2024-05-05,Portland Blaze,Nashville University Gym
+402,2024-05-05,Seattle Vortex,Vegas University Gym
+403,2024-05-06,Nashville Crushers,Boston Memorial Hall
+404,2024-05-05,Dallas Aces,Seattle Fieldhouse
+405,2024-05-07,Detroit Crushers,Miami Fieldhouse
+406,2024-05-07,Memphis Thunder,Memphis Civic Center
+407,2024-05-06,Tucson Spikers,Portland Sports Complex
+408,2024-05-08,Tampa Wolves,Chicago Civic Center
+409,2024-05-07,Vegas Vipers,Phoenix Pavilion
+410,2024-05-07,Seattle Flyers,Chicago University Gym
+411,2024-05-07,Miami Crushers,Austin Fieldhouse
+412,2024-05-09,Vegas Spikers,Austin Convention Center
+413,2024-05-08,Boston Crushers,Brooklyn Sports Complex
+414,2024-05-09,Dallas Aces,Orlando University Gym
+415,2024-05-09,Houston Rockets,Brooklyn Arena
+416,2024-05-10,Detroit Flyers,Memphis Pavilion
+417,2024-05-09,Orlando Hawks,Brooklyn Pavilion
+418,2024-05-10,Vegas Flyers,Miami Civic Center
+419,2024-05-10,Reno Flyers,Nashville University Gym
+420,2024-05-11,Dallas Blaze,Vegas Arena
+421,2024-05-11,Phoenix Vortex,Miami Convention Center
+422,2024-05-12,Boston Vortex,Chicago Convention Center
+423,2024-05-11,Detroit Vipers,Tucson Memorial Hall
+424,2024-05-12,Dallas Crushers,Portland Sports Complex
+425,2024-05-12,Brooklyn Royals,Tampa Arena
+426,2024-05-12,Portland Eagles,Vegas Convention Center
+427,2024-05-12,Brooklyn Blaze,Detroit Civic Center
+428,2024-05-14,Detroit Hawks,Memphis Convention Center
+429,2024-05-13,Denver Dynamos,Denver Convention Center
+430,2024-05-13,Boston Titans,Vegas Memorial Hall
+431,2024-05-15,Austin Wolves,Portland University Gym
+432,2024-05-14,Boston Storm,Memphis Fieldhouse
+433,2024-05-15,Brooklyn Storm,Seattle Arena
+434,2024-05-14,Portland Surge,Tucson Arena
+435,2024-05-15,Atlanta Flyers,Seattle University Gym
+436,2024-05-16,Boston Eagles,Austin Pavilion
+437,2024-05-15,Houston Aces,Portland University Gym
+438,2024-05-17,Phoenix Titans,Orlando Arena
+439,2024-05-16,Chicago Surge,Seattle Convention Center
+440,2024-05-16,Seattle Dynamos,Vegas Civic Center
+441,2024-05-18,Phoenix Titans,Detroit Fieldhouse
+442,2024-05-18,Tampa Sharks,Chicago Memorial Hall
+443,2024-05-18,Austin Titans,Vegas Fieldhouse
+444,2024-05-18,Orlando Comets,Tampa Convention Center
+445,2024-05-19,Chicago Hawks,Memphis Civic Center
+446,2024-05-19,Houston Aces,Austin Convention Center
+447,2024-05-19,Boston Blaze,Tucson Convention Center
+448,2024-05-19,Phoenix Blaze,Dallas Fieldhouse
+449,2024-05-19,Nashville Thunder,Tampa University Gym
+450,2024-05-20,Vegas Comets,Tucson Arena
+451,2024-05-20,Portland Flyers,Miami Fieldhouse
+452,2024-05-21,Tucson Titans,Memphis Civic Center
+453,2024-05-20,Denver Spikers,Portland University Gym
+454,2024-05-20,Reno Titans,Portland Pavilion
+455,2024-05-22,Houston Sharks,Houston Fieldhouse
+456,2024-05-21,Seattle Sharks,Boston Fieldhouse
+457,2024-05-21,Boston Phantoms,Detroit Pavilion
+458,2024-05-22,Atlanta Hawks,Chicago Sports Complex
+459,2024-05-23,Houston Spikers,Nashville Convention Center
+460,2024-05-22,Nashville Spikers,Orlando Fieldhouse
+461,2024-05-24,Nashville Surge,Brooklyn Arena
+462,2024-05-23,Portland Wolves,Chicago Fieldhouse
+463,2024-05-24,Chicago Flyers,Houston Sports Complex
+464,2024-05-23,Dallas Spikers,Atlanta Fieldhouse
+465,2024-05-24,Detroit Wolves,Tucson Convention Center
+466,2024-05-25,Phoenix Vipers,Brooklyn Pavilion
+467,2024-05-25,Memphis Thunder,Portland University Gym
+468,2024-05-26,Seattle Hawks,Orlando Sports Complex
+469,2024-05-25,Detroit Eagles,Atlanta Convention Center
+470,2024-05-26,Chicago Eagles,Brooklyn Fieldhouse
+471,2024-05-26,Memphis Vortex,Brooklyn Arena
+472,2024-05-26,Dallas Storm,Memphis Memorial Hall
+473,2024-05-27,Chicago Dynamos,Orlando Pavilion
+474,2024-05-26,Orlando Dynamos,Chicago Sports Complex
+475,2024-05-27,Brooklyn Aces,Boston Pavilion
+476,2024-05-27,Reno Dynamos,Portland Pavilion
+477,2024-05-27,Atlanta Vipers,Detroit Memorial Hall
+478,2024-05-29,Chicago Phantoms,Phoenix Memorial Hall
+479,2024-05-29,Seattle Vortex,Tucson Sports Complex
+480,2024-05-28,Tampa Dynamos,Denver Convention Center
+481,2024-05-30,Orlando Titans,Orlando Convention Center
+482,2024-05-29,Tucson Thunder,Portland Civic Center
+483,2024-05-29,Nashville Surge,Austin Civic Center
+484,2024-05-30,Brooklyn Phantoms,Dallas Fieldhouse
+485,2024-05-30,Vegas Thunder,Atlanta Sports Complex
+486,2024-05-30,Miami Surge,Denver Pavilion
+487,2024-05-31,Miami Flyers,Houston University Gym
+488,2024-06-01,Atlanta Sharks,Boston Pavilion
+489,2024-05-31,Phoenix Blaze,Brooklyn Convention Center
+490,2024-06-01,Boston Sharks,Tampa Sports Complex
+491,2024-06-02,Miami Hawks,Tampa University Gym
+492,2024-06-01,Atlanta Vortex,Memphis Fieldhouse
+493,2024-06-02,Nashville Thunder,Detroit University Gym
+494,2024-06-02,Miami Wolves,Seattle Sports Complex
+495,2024-06-03,Orlando Titans,Austin Memorial Hall
+496,2024-06-02,Tampa Aces,Tampa Convention Center
+497,2024-06-03,Vegas Aces,Miami Sports Complex
+498,2024-06-03,Portland Storm,Portland Convention Center
+499,2024-06-04,Seattle Dynamos,Atlanta Civic Center
+500,2024-06-03,Seattle Spikers,Seattle University Gym
+501,2024-06-05,Memphis Aces,Austin Civic Center
+502,2024-06-04,Austin Spikers,Portland Civic Center
+503,2024-06-04,Nashville Sharks,Denver Pavilion
+504,2024-06-05,Detroit Sharks,Orlando Pavilion
+505,2024-06-05,Detroit Wolves,Dallas Sports Complex
+506,2024-06-05,Austin Flyers,Atlanta Arena
+507,2024-06-05,Tampa Spikers,Chicago Fieldhouse
+508,2024-06-07,Denver Blaze,Denver Fieldhouse
+509,2024-06-07,Nashville Crushers,Tampa Arena
+510,2024-06-06,Miami Vipers,Houston University Gym
+511,2024-06-07,Orlando Vipers,Houston Convention Center
+512,2024-06-08,Tucson Comets,Dallas Pavilion
+513,2024-06-07,Orlando Storm,Nashville Pavilion
+514,2024-06-07,Atlanta Aces,Dallas University Gym
+515,2024-06-09,Atlanta Surge,Vegas Convention Center
+516,2024-06-09,Tampa Thunder,Chicago Pavilion
+517,2024-06-09,Memphis Surge,Phoenix Fieldhouse
+518,2024-06-09,Dallas Storm,Miami Sports Complex
+519,2024-06-10,Memphis Thunder,Portland University Gym
+520,2024-06-10,Detroit Spikers,Dallas University Gym
+521,2024-06-11,Brooklyn Rockets,Orlando Civic Center
+522,2024-06-10,Reno Flyers,Boston Sports Complex
+523,2024-06-11,Detroit Aces,Denver Civic Center
+524,2024-06-10,Brooklyn Aces,Houston Convention Center
+525,2024-06-12,Denver Rockets,Phoenix University Gym
+526,2024-06-12,Phoenix Rockets,Dallas Convention Center
+527,2024-06-12,Dallas Spikers,Chicago Pavilion
+528,2024-06-12,Tucson Sharks,Memphis Memorial Hall
+529,2024-06-12,Chicago Crushers,Miami Pavilion
+530,2024-06-13,Memphis Phantoms,Miami Memorial Hall
+531,2024-06-14,Memphis Rockets,Brooklyn Memorial Hall
+532,2024-06-14,Dallas Flyers,Brooklyn Convention Center
+533,2024-06-14,Orlando Crushers,Houston Arena
+534,2024-06-13,Brooklyn Dynamos,Seattle Civic Center
+535,2024-06-14,Atlanta Vortex,Memphis Civic Center
+536,2024-06-14,Phoenix Royals,Dallas Convention Center
+537,2024-06-14,Denver Vortex,Atlanta Civic Center
+538,2024-06-16,Detroit Aces,Denver Convention Center
+539,2024-06-15,Nashville Vortex,Reno Pavilion
+540,2024-06-16,Houston Wolves,Orlando Pavilion
+541,2024-06-17,Vegas Flyers,Seattle Civic Center
+542,2024-06-16,Houston Hawks,Orlando Fieldhouse
+543,2024-06-16,Tampa Wolves,Atlanta Fieldhouse
+544,2024-06-16,Portland Spikers,Phoenix Arena
+545,2024-06-17,Miami Sharks,Denver University Gym
+546,2024-06-17,Miami Aces,Austin Arena
+547,2024-06-17,Tampa Storm,Reno Pavilion
+548,2024-06-18,Chicago Dynamos,Brooklyn Sports Complex
+549,2024-06-18,Tampa Storm,Tampa Sports Complex
+550,2024-06-18,Orlando Blaze,Orlando Arena
+551,2024-06-19,Tampa Vipers,Boston Sports Complex
+552,2024-06-19,Chicago Comets,Portland University Gym
+553,2024-06-19,Memphis Crushers,Detroit Convention Center
+554,2024-06-19,Houston Sharks,Reno Pavilion
+555,2024-06-21,Seattle Surge,Miami University Gym
+556,2024-06-21,Portland Wolves,Tampa Memorial Hall
+557,2024-06-20,Tampa Wolves,Denver Sports Complex
+558,2024-06-22,Portland Spikers,Houston Civic Center
+559,2024-06-21,Boston Vortex,Seattle Pavilion
+560,2024-06-21,Denver Phantoms,Atlanta University Gym
+561,2024-06-23,Tucson Crushers,Atlanta Arena
+562,2024-06-22,Houston Phantoms,Atlanta Convention Center
+563,2024-06-22,Denver Thunder,Houston Convention Center
+564,2024-06-22,Seattle Storm,Detroit Civic Center
+565,2024-06-24,Tampa Sharks,Portland Sports Complex
+566,2024-06-23,Seattle Surge,Reno Pavilion
+567,2024-06-24,Vegas Titans,Vegas University Gym
+568,2024-06-24,Chicago Aces,Chicago Arena
+569,2024-06-25,Detroit Sharks,Memphis Fieldhouse
+570,2024-06-24,Denver Crushers,Boston University Gym
+571,2024-06-25,Tucson Aces,Reno Civic Center
+572,2024-06-26,Vegas Hawks,Chicago Civic Center
+573,2024-06-26,Boston Rockets,Vegas Sports Complex
+574,2024-06-25,Phoenix Flyers,Atlanta Pavilion
+575,2024-06-26,Vegas Blaze,Denver Fieldhouse
+576,2024-06-26,Boston Storm,Orlando Memorial Hall
+577,2024-06-27,Brooklyn Eagles,Memphis Sports Complex
+578,2024-06-27,Brooklyn Crushers,Tucson Sports Complex
+579,2024-06-27,Boston Wolves,Reno University Gym
+580,2024-06-27,Seattle Storm,Reno University Gym
+581,2024-06-29,Denver Vortex,Portland Sports Complex
+582,2024-06-28,Phoenix Crushers,Miami University Gym
+583,2024-06-28,Austin Titans,Seattle Convention Center
+584,2024-06-29,Detroit Hawks,Vegas Fieldhouse
+585,2024-06-29,Denver Surge,Reno University Gym
+586,2024-06-30,Boston Hawks,Reno Convention Center
+587,2024-06-29,Vegas Vortex,Phoenix Memorial Hall
+588,2024-07-01,Austin Thunder,Atlanta Sports Complex
+589,2024-06-30,Denver Dynamos,Nashville Convention Center
+590,2024-07-01,Tampa Crushers,Houston Arena
+591,2024-07-02,Memphis Crushers,Seattle Convention Center
+592,2024-07-01,Orlando Aces,Vegas University Gym
+593,2024-07-02,Orlando Aces,Detroit Civic Center
+594,2024-07-01,Reno Dynamos,Tucson Memorial Hall
+595,2024-07-03,Chicago Phantoms,Denver Convention Center
+596,2024-07-02,Denver Rockets,Phoenix Convention Center
+597,2024-07-02,Reno Rockets,Miami Convention Center
+598,2024-07-03,Memphis Spikers,Houston University Gym
+599,2024-07-03,Reno Blaze,Reno Sports Complex
+600,2024-07-03,Vegas Flyers,Tampa Arena
+601,2024-07-04,Memphis Wolves,Memphis Pavilion
+602,2024-07-04,Tucson Surge,Austin Convention Center
+603,2024-07-05,Orlando Titans,Austin University Gym
+604,2024-07-04,Tucson Eagles,Phoenix University Gym
+605,2024-07-06,Detroit Surge,Detroit Sports Complex
+606,2024-07-06,Chicago Flyers,Austin Convention Center
+607,2024-07-05,Houston Blaze,Vegas Sports Complex
+608,2024-07-06,Portland Dynamos,Denver University Gym
+609,2024-07-07,Orlando Dynamos,Tucson Convention Center
+610,2024-07-07,Tucson Vipers,Austin Civic Center
+611,2024-07-08,Brooklyn Phantoms,Portland Fieldhouse
+612,2024-07-08,Chicago Flyers,Memphis Pavilion
+613,2024-07-07,Phoenix Phantoms,Tampa Memorial Hall
+614,2024-07-08,Memphis Royals,Dallas University Gym
+615,2024-07-09,Seattle Titans,Detroit Sports Complex
+616,2024-07-09,Houston Flyers,Miami Arena
+617,2024-07-09,Seattle Titans,Boston Arena
+618,2024-07-10,Orlando Flyers,Memphis Sports Complex
+619,2024-07-10,Chicago Crushers,Brooklyn Arena
+620,2024-07-10,Nashville Thunder,Orlando Fieldhouse
+621,2024-07-11,Phoenix Comets,Tampa Fieldhouse
+622,2024-07-11,Seattle Rockets,Denver Convention Center
+623,2024-07-10,Miami Eagles,Dallas Memorial Hall
+624,2024-07-10,Austin Spikers,Atlanta Civic Center
+625,2024-07-12,Reno Eagles,Boston Pavilion
+626,2024-07-11,Dallas Crushers,Orlando Civic Center
+627,2024-07-11,Seattle Thunder,Orlando Fieldhouse
+628,2024-07-12,Detroit Flyers,Reno University Gym
+629,2024-07-13,Seattle Thunder,Brooklyn University Gym
+630,2024-07-13,Boston Surge,Orlando Sports Complex
+631,2024-07-14,Boston Spikers,Memphis Civic Center
+632,2024-07-14,Phoenix Comets,Boston Convention Center
+633,2024-07-14,Seattle Hawks,Nashville Memorial Hall
+634,2024-07-14,Boston Eagles,Orlando University Gym
+635,2024-07-14,Brooklyn Aces,Austin Fieldhouse
+636,2024-07-15,Tampa Sharks,Denver Convention Center
+637,2024-07-15,Austin Blaze,Tucson Civic Center
+638,2024-07-16,Miami Vipers,Brooklyn Convention Center
+639,2024-07-16,Miami Aces,Miami Fieldhouse
+640,2024-07-15,Denver Hawks,Dallas Memorial Hall
+641,2024-07-17,Reno Vortex,Memphis University Gym
+642,2024-07-17,Tucson Phantoms,Nashville Arena
+643,2024-07-16,Portland Royals,Reno Convention Center
+644,2024-07-16,Tucson Blaze,Memphis Pavilion
+645,2024-07-17,Tucson Dynamos,Orlando Convention Center
+646,2024-07-18,Memphis Rockets,Detroit Convention Center
+647,2024-07-17,Tucson Phantoms,Vegas Convention Center
+648,2024-07-19,Boston Eagles,Austin Pavilion
+649,2024-07-18,Orlando Hawks,Reno Pavilion
+650,2024-07-18,Nashville Titans,Vegas Pavilion
+651,2024-07-20,Portland Flyers,Orlando Fieldhouse
+652,2024-07-20,Orlando Wolves,Brooklyn Convention Center
+653,2024-07-19,Seattle Thunder,Orlando Arena
+654,2024-07-19,Tampa Aces,Houston Civic Center
+655,2024-07-20,Tucson Rockets,Vegas Memorial Hall
+656,2024-07-20,Boston Spikers,Miami Fieldhouse
+657,2024-07-21,Reno Sharks,Reno Sports Complex
+658,2024-07-22,Tampa Titans,Dallas Fieldhouse
+659,2024-07-22,Detroit Sharks,Portland Sports Complex
+660,2024-07-22,Brooklyn Titans,Denver Pavilion
+661,2024-07-23,Reno Spikers,Reno Civic Center
+662,2024-07-22,Chicago Crushers,Memphis Sports Complex
+663,2024-07-22,Detroit Vortex,Memphis Civic Center
+664,2024-07-22,Seattle Crushers,Orlando Memorial Hall
+665,2024-07-24,Houston Hawks,Vegas Civic Center
+666,2024-07-24,Boston Spikers,Orlando Convention Center
+667,2024-07-23,Chicago Comets,Portland Pavilion
+668,2024-07-24,Austin Phantoms,Atlanta Sports Complex
+669,2024-07-24,Houston Aces,Boston Civic Center
+670,2024-07-24,Tampa Flyers,Seattle Convention Center
+671,2024-07-26,Chicago Flyers,Dallas Civic Center
+672,2024-07-26,Nashville Phantoms,Vegas Arena
+673,2024-07-26,Nashville Titans,Nashville University Gym
+674,2024-07-26,Boston Spikers,Phoenix Convention Center
+675,2024-07-27,Vegas Storm,Detroit Fieldhouse
+676,2024-07-26,Tampa Storm,Vegas Civic Center
+677,2024-07-27,Nashville Titans,Dallas Fieldhouse
+678,2024-07-28,Nashville Blaze,Nashville Memorial Hall
+679,2024-07-28,Nashville Aces,Atlanta Convention Center
+680,2024-07-28,Memphis Crushers,Memphis University Gym
+681,2024-07-29,Atlanta Vortex,Detroit Sports Complex
+682,2024-07-29,Atlanta Vipers,Tucson University Gym
+683,2024-07-29,Chicago Rockets,Dallas Sports Complex
+684,2024-07-28,Detroit Aces,Atlanta Fieldhouse
+685,2024-07-29,Boston Rockets,Reno Convention Center
+686,2024-07-30,Reno Vortex,Atlanta Convention Center
+687,2024-07-30,Miami Thunder,Houston Memorial Hall
+688,2024-07-31,Portland Royals,Chicago Memorial Hall
+689,2024-07-31,Atlanta Rockets,Seattle Fieldhouse
+690,2024-07-31,Portland Titans,Houston Arena
+691,2024-07-31,Austin Vortex,Detroit Convention Center
+692,2024-07-31,Houston Thunder,Tampa Memorial Hall
+693,2024-07-31,Austin Vipers,Brooklyn Civic Center
+694,2024-07-31,Reno Crushers,Detroit Sports Complex
+695,2024-08-02,Austin Aces,Phoenix Memorial Hall
+696,2024-08-02,Phoenix Flyers,Brooklyn Convention Center
+697,2024-08-01,Miami Comets,Tucson Arena
+698,2024-08-02,Reno Sharks,Nashville Arena
+699,2024-08-03,Nashville Spikers,Brooklyn University Gym
+700,2024-08-03,Tampa Blaze,Memphis Pavilion
+701,2024-08-03,Atlanta Sharks,Austin Sports Complex
+702,2024-08-04,Memphis Vortex,Boston University Gym
+703,2024-08-04,Memphis Phantoms,Boston Pavilion
+704,2024-08-04,Atlanta Flyers,Atlanta Convention Center
+705,2024-08-04,Tucson Thunder,Denver University Gym
+706,2024-08-04,Nashville Flyers,Nashville Civic Center
+707,2024-08-04,Chicago Titans,Miami Sports Complex
+708,2024-08-06,Phoenix Hawks,Chicago Pavilion
+709,2024-08-06,Tampa Hawks,Tucson Memorial Hall
+710,2024-08-06,Reno Royals,Orlando Pavilion
+711,2024-08-07,Orlando Titans,Tampa Convention Center
+712,2024-08-06,Atlanta Surge,Houston Convention Center
+713,2024-08-07,Atlanta Flyers,Brooklyn Memorial Hall
+714,2024-08-07,Atlanta Royals,Tampa Fieldhouse
+715,2024-08-08,Vegas Blaze,Seattle Sports Complex
+716,2024-08-08,Seattle Phantoms,Detroit Convention Center
+717,2024-08-08,Portland Phantoms,Detroit University Gym
+718,2024-08-09,Phoenix Wolves,Atlanta Convention Center
+719,2024-08-09,Seattle Surge,Detroit Arena
+720,2024-08-09,Portland Thunder,Chicago Memorial Hall
+721,2024-08-10,Boston Surge,Boston University Gym
+722,2024-08-10,Reno Hawks,Seattle Arena
+723,2024-08-10,Tucson Crushers,Portland Arena
+724,2024-08-09,Portland Phantoms,Austin Civic Center
+725,2024-08-10,Tampa Blaze,Vegas Civic Center
+726,2024-08-10,Seattle Vipers,Miami Pavilion
+727,2024-08-11,Reno Vipers,Denver University Gym
+728,2024-08-11,Tucson Crushers,Orlando Fieldhouse
+729,2024-08-12,Brooklyn Eagles,Orlando Memorial Hall
+730,2024-08-11,Dallas Titans,Detroit Convention Center
+731,2024-08-12,Houston Royals,Portland Civic Center
+732,2024-08-12,Tampa Blaze,Phoenix Memorial Hall
+733,2024-08-12,Chicago Thunder,Atlanta Civic Center
+734,2024-08-13,Denver Surge,Miami Sports Complex
+735,2024-08-13,Phoenix Sharks,Brooklyn Convention Center
+736,2024-08-14,Orlando Sharks,Dallas Convention Center
+737,2024-08-13,Detroit Sharks,Phoenix Fieldhouse
+738,2024-08-15,Austin Storm,Memphis Sports Complex
+739,2024-08-14,Vegas Rockets,Miami Arena
+740,2024-08-14,Boston Crushers,Tucson Pavilion
+741,2024-08-15,Portland Hawks,Denver Memorial Hall
+742,2024-08-15,Portland Vortex,Phoenix Convention Center
+743,2024-08-15,Chicago Eagles,Portland Pavilion
+744,2024-08-16,Dallas Comets,Tucson Sports Complex
+745,2024-08-17,Miami Eagles,Seattle Arena
+746,2024-08-17,Brooklyn Surge,Detroit University Gym
+747,2024-08-16,Orlando Blaze,Miami Pavilion
+748,2024-08-18,Denver Vipers,Atlanta Arena
+749,2024-08-17,Seattle Comets,Memphis Memorial Hall
+750,2024-08-18,Tampa Storm,Memphis Pavilion
+751,2024-08-19,Tucson Flyers,Tampa Fieldhouse
+752,2024-08-19,Memphis Eagles,Tampa Arena
+753,2024-08-18,Vegas Flyers,Miami Pavilion
+754,2024-08-19,Vegas Titans,Atlanta University Gym
+755,2024-08-20,Memphis Vipers,Phoenix Civic Center
+756,2024-08-19,Brooklyn Comets,Chicago Fieldhouse
+757,2024-08-19,Tampa Crushers,Austin Arena
+758,2024-08-21,Austin Phantoms,Denver Memorial Hall
+759,2024-08-21,Phoenix Sharks,Phoenix Memorial Hall
+760,2024-08-20,Orlando Wolves,Dallas Convention Center
+761,2024-08-22,Memphis Rockets,Portland Fieldhouse
+762,2024-08-22,Vegas Vipers,Reno Memorial Hall
+763,2024-08-22,Phoenix Storm,Austin Sports Complex
+764,2024-08-22,Tucson Titans,Miami Sports Complex
+765,2024-08-23,Phoenix Royals,Dallas Sports Complex
+766,2024-08-22,Austin Sharks,Brooklyn Fieldhouse
+767,2024-08-22,Orlando Wolves,Memphis Arena
+768,2024-08-24,Atlanta Flyers,Austin Sports Complex
+769,2024-08-23,Miami Aces,Houston Arena
+770,2024-08-24,Austin Eagles,Brooklyn University Gym
+771,2024-08-24,Tampa Titans,Dallas Civic Center
+772,2024-08-25,Memphis Phantoms,Nashville Pavilion
+773,2024-08-25,Tampa Thunder,Brooklyn Civic Center
+774,2024-08-24,Reno Aces,Brooklyn Convention Center
+775,2024-08-26,Memphis Wolves,Houston Convention Center
+776,2024-08-26,Tucson Vortex,Vegas Convention Center
+777,2024-08-26,Seattle Sharks,Miami Memorial Hall
+778,2024-08-26,Houston Hawks,Chicago University Gym
+779,2024-08-26,Austin Flyers,Denver University Gym
+780,2024-08-26,Portland Wolves,Denver Convention Center
+781,2024-08-28,Memphis Crushers,Austin Convention Center
+782,2024-08-27,Denver Titans,Atlanta University Gym
+783,2024-08-27,Miami Crushers,Detroit Memorial Hall
+784,2024-08-27,Denver Hawks,Portland Memorial Hall
+785,2024-08-29,Tucson Eagles,Brooklyn Memorial Hall
+786,2024-08-28,Houston Storm,Dallas Memorial Hall
+787,2024-08-29,Memphis Phantoms,Dallas Convention Center
+788,2024-08-29,Miami Aces,Detroit Arena
+789,2024-08-30,Tucson Surge,Seattle Memorial Hall
+790,2024-08-29,Chicago Aces,Seattle Arena
+791,2024-08-30,Vegas Surge,Austin Memorial Hall
+792,2024-08-31,Houston Surge,Orlando Convention Center
+793,2024-08-31,Chicago Phantoms,Memphis Sports Complex
+794,2024-08-30,Austin Thunder,Vegas Memorial Hall
+795,2024-09-01,Dallas Wolves,Reno Pavilion
+796,2024-09-01,Dallas Hawks,Detroit Convention Center
+797,2024-09-01,Boston Dynamos,Austin University Gym
+798,2024-09-02,Houston Crushers,Detroit Memorial Hall
+799,2024-09-01,Phoenix Vipers,Detroit Arena
+800,2024-09-01,Detroit Storm,Austin Fieldhouse
+801,2024-09-02,Portland Surge,Dallas Fieldhouse
+802,2024-09-02,Reno Royals,Memphis Convention Center
+803,2024-09-02,Memphis Vipers,Vegas Pavilion
+804,2024-09-02,Tucson Sharks,Austin Fieldhouse
+805,2024-09-03,Reno Thunder,Vegas Fieldhouse
+806,2024-09-03,Dallas Spikers,Reno Sports Complex
+807,2024-09-04,Miami Wolves,Austin Arena
+808,2024-09-05,Chicago Rockets,Miami Sports Complex
+809,2024-09-05,Vegas Wolves,Atlanta Fieldhouse
+810,2024-09-04,Tucson Aces,Austin Convention Center
+811,2024-09-06,Austin Crushers,Miami Pavilion
+812,2024-09-05,Reno Vipers,Brooklyn Fieldhouse
+813,2024-09-06,Austin Royals,Phoenix Pavilion
+814,2024-09-05,Detroit Crushers,Chicago University Gym
+815,2024-09-06,Miami Aces,Reno Arena
+816,2024-09-07,Portland Hawks,Orlando Sports Complex
+817,2024-09-07,Atlanta Comets,Portland University Gym
+818,2024-09-07,Miami Royals,Tucson Sports Complex
+819,2024-09-07,Dallas Vipers,Seattle Civic Center
+820,2024-09-07,Portland Comets,Denver Sports Complex
+821,2024-09-08,Portland Crushers,Denver Fieldhouse
+822,2024-09-08,Tucson Storm,Reno Memorial Hall
+823,2024-09-08,Nashville Spikers,Houston Sports Complex
+824,2024-09-09,Austin Thunder,Atlanta Convention Center
+825,2024-09-09,Seattle Crushers,Atlanta Convention Center
+826,2024-09-10,Dallas Storm,Vegas Pavilion
+827,2024-09-09,Tucson Comets,Detroit Sports Complex
+828,2024-09-11,Boston Vipers,Austin Fieldhouse
+829,2024-09-11,Phoenix Rockets,Dallas Sports Complex
+830,2024-09-10,Reno Blaze,Dallas Civic Center
+831,2024-09-11,Tampa Comets,Seattle Pavilion
+832,2024-09-11,Denver Storm,Brooklyn Fieldhouse
+833,2024-09-12,Chicago Rockets,Portland University Gym
+834,2024-09-12,Dallas Spikers,Vegas Sports Complex
+835,2024-09-13,Memphis Eagles,Houston Pavilion
+836,2024-09-12,Nashville Hawks,Reno Pavilion
+837,2024-09-13,Dallas Eagles,Detroit Fieldhouse
+838,2024-09-13,Atlanta Eagles,Chicago Convention Center
+839,2024-09-13,Austin Sharks,Atlanta Convention Center
+840,2024-09-13,Brooklyn Phantoms,Vegas University Gym
+841,2024-09-14,Miami Vipers,Tampa University Gym
+842,2024-09-15,Tucson Dynamos,Houston Arena
+843,2024-09-15,Brooklyn Flyers,Memphis Pavilion
+844,2024-09-15,Houston Rockets,Chicago Pavilion
+845,2024-09-15,Memphis Dynamos,Atlanta Fieldhouse
+846,2024-09-16,Austin Comets,Reno Memorial Hall
+847,2024-09-16,Miami Royals,Dallas University Gym
+848,2024-09-17,Tampa Dynamos,Dallas Sports Complex
+849,2024-09-16,Boston Phantoms,Vegas Pavilion
+850,2024-09-17,Austin Blaze,Reno University Gym
+851,2024-09-17,Detroit Flyers,Austin Sports Complex
+852,2024-09-17,Orlando Crushers,Phoenix Convention Center
+853,2024-09-17,Nashville Aces,Portland Sports Complex
+854,2024-09-17,Seattle Sharks,Memphis Arena
+855,2024-09-18,Atlanta Storm,Chicago Memorial Hall
+856,2024-09-19,Chicago Wolves,Nashville Civic Center
+857,2024-09-19,Atlanta Flyers,Dallas Pavilion
+858,2024-09-19,Tampa Vortex,Vegas University Gym
+859,2024-09-20,Detroit Spikers,Dallas Sports Complex
+860,2024-09-19,Brooklyn Spikers,Detroit Sports Complex
+861,2024-09-21,Houston Comets,Chicago Memorial Hall
+862,2024-09-21,Tampa Eagles,Brooklyn Memorial Hall
+863,2024-09-20,Portland Comets,Vegas University Gym
+864,2024-09-21,Dallas Thunder,Tucson Sports Complex
+865,2024-09-21,Tampa Phantoms,Tucson Fieldhouse
+866,2024-09-22,Vegas Crushers,Miami University Gym
+867,2024-09-21,Orlando Flyers,Reno Civic Center
+868,2024-09-22,Nashville Crushers,Seattle Pavilion
+869,2024-09-22,Houston Dynamos,Phoenix Fieldhouse
+870,2024-09-23,Tampa Vortex,Detroit Sports Complex
+871,2024-09-23,Houston Titans,Portland Sports Complex
+872,2024-09-23,Orlando Storm,Phoenix Sports Complex
+873,2024-09-23,Denver Dynamos,Austin Fieldhouse
+874,2024-09-24,Houston Wolves,Tucson Memorial Hall
+875,2024-09-24,Denver Storm,Reno Pavilion
+876,2024-09-25,Detroit Eagles,Austin Fieldhouse
+877,2024-09-25,Phoenix Phantoms,Dallas Civic Center
+878,2024-09-26,Atlanta Crushers,Houston Memorial Hall
+879,2024-09-26,Miami Thunder,Seattle Pavilion
+880,2024-09-26,Vegas Wolves,Reno University Gym
+881,2024-09-27,Nashville Wolves,Seattle University Gym
+882,2024-09-27,Detroit Blaze,Chicago Convention Center
+883,2024-09-26,Miami Spikers,Vegas Memorial Hall
+884,2024-09-26,Detroit Storm,Dallas University Gym
+885,2024-09-27,Phoenix Royals,Orlando University Gym
+886,2024-09-28,Atlanta Dynamos,Portland Arena
+887,2024-09-27,Orlando Surge,Seattle Arena
+888,2024-09-28,Atlanta Rockets,Phoenix Convention Center
+889,2024-09-28,Brooklyn Sharks,Tampa Pavilion
+890,2024-09-28,Memphis Comets,Seattle University Gym
+891,2024-09-29,Portland Crushers,Houston Sports Complex
+892,2024-09-30,Phoenix Wolves,Portland Convention Center
+893,2024-09-29,Nashville Comets,Nashville University Gym
+894,2024-09-29,Reno Blaze,Nashville Arena
+895,2024-09-30,Phoenix Royals,Miami Pavilion
+896,2024-09-30,Houston Comets,Denver University Gym
+897,2024-10-01,Seattle Hawks,Denver Pavilion
+898,2024-10-02,Dallas Surge,Chicago Memorial Hall
+899,2024-10-02,Nashville Blaze,Tampa Pavilion
+900,2024-10-02,Detroit Vipers,Miami Fieldhouse
+901,2024-10-03,Nashville Royals,Reno Fieldhouse
+902,2024-10-02,Denver Comets,Seattle Sports Complex
+903,2024-10-03,Dallas Comets,Atlanta Fieldhouse
+904,2024-10-02,Portland Sharks,Detroit University Gym
+905,2024-10-03,Dallas Aces,Tampa Convention Center
+906,2024-10-04,Nashville Eagles,Phoenix Sports Complex
+907,2024-10-03,Portland Royals,Memphis Civic Center
+908,2024-10-04,Vegas Thunder,Brooklyn Arena
+909,2024-10-04,Brooklyn Crushers,Austin Sports Complex
+910,2024-10-04,Miami Aces,Orlando Fieldhouse
+911,2024-10-06,Memphis Spikers,Brooklyn Sports Complex
+912,2024-10-06,Atlanta Thunder,Detroit Memorial Hall
+913,2024-10-06,Boston Comets,Austin Convention Center
+914,2024-10-05,Atlanta Phantoms,Denver Memorial Hall
+915,2024-10-06,Houston Vortex,Chicago Sports Complex
+916,2024-10-06,Orlando Vipers,Tampa Fieldhouse
+917,2024-10-06,Phoenix Storm,Boston Arena
+918,2024-10-07,Tampa Wolves,Chicago Fieldhouse
+919,2024-10-08,Tucson Blaze,Memphis University Gym
+920,2024-10-07,Seattle Vortex,Miami Arena
+921,2024-10-09,Dallas Comets,Orlando Pavilion
+922,2024-10-08,Miami Dynamos,Reno University Gym
+923,2024-10-08,Miami Blaze,Memphis Convention Center
+924,2024-10-09,Portland Vipers,Portland Convention Center
+925,2024-10-10,Orlando Vortex,Denver Arena
+926,2024-10-09,Denver Rockets,Boston Convention Center
+927,2024-10-09,Dallas Titans,Detroit Civic Center
+928,2024-10-11,Reno Royals,Denver Memorial Hall
+929,2024-10-10,Tampa Blaze,Orlando Arena
+930,2024-10-10,Tucson Blaze,Detroit University Gym
+931,2024-10-11,Atlanta Eagles,Memphis Civic Center
+932,2024-10-12,Chicago Vipers,Boston University Gym
+933,2024-10-12,Denver Wolves,Denver Pavilion
+934,2024-10-12,Austin Flyers,Tampa Civic Center
+935,2024-10-12,Seattle Royals,Tampa University Gym
+936,2024-10-12,Boston Eagles,Nashville Fieldhouse
+937,2024-10-13,Tampa Spikers,Orlando University Gym
+938,2024-10-14,Miami Aces,Austin Memorial Hall
+939,2024-10-13,Portland Phantoms,Dallas Fieldhouse
+940,2024-10-13,Seattle Surge,Portland Pavilion
+941,2024-10-14,Reno Eagles,Tampa University Gym
+942,2024-10-15,Reno Storm,Miami Convention Center
+943,2024-10-14,Atlanta Aces,Tampa Fieldhouse
+944,2024-10-15,Miami Vortex,Chicago Pavilion
+945,2024-10-15,Reno Flyers,Memphis Convention Center
+946,2024-10-15,Tampa Vipers,Memphis Pavilion
+947,2024-10-16,Atlanta Titans,Denver Arena
+948,2024-10-16,Tampa Storm,Miami Civic Center
+949,2024-10-17,Miami Rockets,Reno Pavilion
+950,2024-10-17,Phoenix Rockets,Detroit Fieldhouse
+951,2024-10-18,Memphis Vipers,Memphis Fieldhouse
+952,2024-10-18,Vegas Eagles,Memphis Memorial Hall
+953,2024-10-17,Chicago Titans,Phoenix Memorial Hall
+954,2024-10-17,Tucson Flyers,Dallas Pavilion
+955,2024-10-19,Dallas Rockets,Orlando Sports Complex
+956,2024-10-18,Chicago Rockets,Boston Convention Center
+957,2024-10-18,Vegas Sharks,Phoenix Pavilion
+958,2024-10-20,Dallas Eagles,Seattle Convention Center
+959,2024-10-20,Reno Hawks,Miami Convention Center
+960,2024-10-19,Reno Crushers,Tucson Convention Center
+961,2024-10-21,Denver Dynamos,Portland Convention Center
+962,2024-10-21,Seattle Sharks,Miami Memorial Hall
+963,2024-10-20,Atlanta Storm,Detroit Civic Center
+964,2024-10-20,Seattle Storm,Houston University Gym
+965,2024-10-21,Reno Vortex,Tampa Pavilion
+966,2024-10-22,Tucson Comets,Phoenix Fieldhouse
+967,2024-10-22,Tampa Storm,Miami Arena
+968,2024-10-22,Miami Comets,Detroit Memorial Hall
+969,2024-10-22,Memphis Phantoms,Memphis University Gym
+970,2024-10-23,Vegas Flyers,Nashville Civic Center
+971,2024-10-24,Portland Sharks,Reno Memorial Hall
+972,2024-10-24,Atlanta Surge,Chicago Sports Complex
+973,2024-10-23,Tampa Wolves,Austin Convention Center
+974,2024-10-24,Reno Crushers,Denver Sports Complex
+975,2024-10-24,Atlanta Flyers,Boston Memorial Hall
+976,2024-10-25,Nashville Spikers,Chicago Convention Center
+977,2024-10-25,Tampa Vortex,Boston Pavilion
+978,2024-10-25,Reno Titans,Boston Fieldhouse
+979,2024-10-25,Houston Storm,Denver Civic Center
+980,2024-10-25,Houston Storm,Chicago Civic Center
+981,2024-10-27,Denver Blaze,Tucson Civic Center
+982,2024-10-26,Atlanta Thunder,Detroit Civic Center
+983,2024-10-26,Phoenix Vipers,Denver Convention Center
+984,2024-10-26,Detroit Vipers,Atlanta Sports Complex
+985,2024-10-27,Vegas Phantoms,Austin Convention Center
+986,2024-10-28,Detroit Crushers,Atlanta Civic Center
+987,2024-10-28,Orlando Blaze,Vegas Memorial Hall
+988,2024-10-29,Boston Vortex,Denver University Gym
+989,2024-10-29,Houston Rockets,Nashville Fieldhouse
+990,2024-10-28,Memphis Titans,Austin Pavilion
+991,2024-10-29,Atlanta Aces,Phoenix Arena
+992,2024-10-29,Memphis Royals,Portland Arena
+993,2024-10-29,Houston Crushers,Atlanta Civic Center
+994,2024-10-30,Orlando Comets,Boston Memorial Hall
+995,2024-10-30,Houston Titans,Miami Arena
+996,2024-10-31,Austin Dynamos,Orlando University Gym
+997,2024-10-31,Miami Aces,Portland University Gym
+998,2024-10-31,Vegas Titans,Denver Convention Center
+999,2024-10-31,Vegas Titans,Tampa Arena
+1000,2024-11-01,Phoenix Crushers,Reno Civic Center
